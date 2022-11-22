@@ -1,6 +1,8 @@
-# Clase N° 1
+# ***Notas de clases***
 
-## 7 de Noviembre del 2022
+## ***Clase N° 1***
+
+### 7 de Noviembre del 2022
 
 ---
 
@@ -48,13 +50,18 @@ Dentro de las estructura de softwares encontramos:
 
 ---
 
-* ## ***Softwares estructurales***
+## ***Tipos de programación***
 
-Aquellos softwares
+* ### ***Programación estructuradas***
+
+Este tipo de programacion esta orientada a que la programación se de de la forma mas sencilla posible, mejorando aspectos de claridad, calidad y tiempo de programación, meidante el uso de subrutinas o funciones.
+Como ejemplo de este tipo de programación se tiene al lenguaje de programación c.
+
+* ### ***Programación orientada***
+
+La programación orientada trata de 
 
 ### ***CÓDIGOS***
-
-1.
 
 ```c
 #include &ltstdio.h&gt
@@ -69,3 +76,9 @@ int main()
   printf(“Hello, %s,You are %d years old”, name, age)
 }
 ```
+
+---
+
+## ***Clase N°2***
+
+---
