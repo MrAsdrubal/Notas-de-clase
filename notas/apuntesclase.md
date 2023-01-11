@@ -1039,7 +1039,7 @@ void DrawA(int tam, char caracter,char mA[][len])
 }
 ````
 ----
- ## ***CLASE 20: TEMAS DE EVALUACIÓN***
+ ## ***CLASE 19: TEMAS DE EVALUACIÓN***
  ---
 ### ***Fecha:* *23 de diciembre del 2022***
 
@@ -1051,7 +1051,7 @@ En la clase se dio a conocer los temas que se iran a tomar en la prueba entre el
 * Para facilidad en la programacion se cambio optativamente el lenguaje de programacion de c a c++.
 *Otro de los temas a considerar fue la de combinatoria sin repeticion que tambien va a ser tema de prueba en el examen del primer bimestre.
 ---
-## ***CLASE 21: ARCHIVOS***
+## ***CLASE 20: ARCHIVOS***
 ---
 ### ***FECHA: 03 de enero del 2023***
 ---
@@ -1088,7 +1088,7 @@ void escribirArchivo(string Suasofon)
 }
 ````
 ----
-## ***LASE 22:TALLER - PETSHOP***
+## ***LASE 21:TALLER - PETSHOP***
 ---
 ### ***Fecha:04 de enero del 2023***
 ---
